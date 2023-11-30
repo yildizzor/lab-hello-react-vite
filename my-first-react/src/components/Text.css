@@ -1,0 +1,21 @@
+.awesome-btn {
+  background-color: rgb(220, 218, 218);
+  color: black;
+  border-radius: 5px;
+}
+
+.landig-text {
+  text-align: left;
+  padding-left: 100px;
+  max-width: 500px;
+}
+
+.h1 {
+  font-size: 6rem;
+  margin-bottom: 0;
+}
+
+.landig-text p {
+
+  font-size: 1.5rem;
+}

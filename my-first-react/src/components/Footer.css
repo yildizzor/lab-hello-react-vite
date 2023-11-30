@@ -1,0 +1,18 @@
+.card-container {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: left;
+}
+
+.card img {
+  width: 150px;
+  height: auto;
+}
+
+.card h2 {
+  margin: 0;
+}
+
+.card p {
+  margin-top: 0;
+}
